@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T02:58:02.508Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="tS5SRPqFVSU3Y6FGm2Ox" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T08:45:04.417Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="xBSeCcY8vkbtHj3AxBvh" version="21.6.2" type="github">
   <diagram name="第 1 页" id="Xca8YvUOXmCkzwfcZvI0">
-    <mxGraphModel dx="1314" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="B7EtacIu_lCHV7Ynn7B4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B7EtacIu_lCHV7Ynn7B4-2" target="B7EtacIu_lCHV7Ynn7B4-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B7EtacIu_lCHV7Ynn7B4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#6666FF;" edge="1" parent="1" source="B7EtacIu_lCHV7Ynn7B4-2" target="B7EtacIu_lCHV7Ynn7B4-17">
+        <mxCell id="B7EtacIu_lCHV7Ynn7B4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;" edge="1" parent="1" source="B7EtacIu_lCHV7Ynn7B4-2" target="B7EtacIu_lCHV7Ynn7B4-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="280" />
@@ -41,7 +41,7 @@
         <mxCell id="B7EtacIu_lCHV7Ynn7B4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B7EtacIu_lCHV7Ynn7B4-11" target="B7EtacIu_lCHV7Ynn7B4-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B7EtacIu_lCHV7Ynn7B4-11" value="飞鲲API接口&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;（字段校验大小写不敏感）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="B7EtacIu_lCHV7Ynn7B4-11" value="飞鲲API接口&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;（接口发布字段校验调整为大小写不敏感）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="250" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B7EtacIu_lCHV7Ynn7B4-13" value="下游系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -53,7 +53,7 @@
         <mxCell id="B7EtacIu_lCHV7Ynn7B4-16" value="数据同步任务做字段映射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="140" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B7EtacIu_lCHV7Ynn7B4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6666FF;" edge="1" parent="1" source="B7EtacIu_lCHV7Ynn7B4-17" target="B7EtacIu_lCHV7Ynn7B4-11">
+        <mxCell id="B7EtacIu_lCHV7Ynn7B4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;" edge="1" parent="1" source="B7EtacIu_lCHV7Ynn7B4-17" target="B7EtacIu_lCHV7Ynn7B4-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7EtacIu_lCHV7Ynn7B4-17" value="阿里云mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -73,6 +73,24 @@
         </mxCell>
         <mxCell id="B7EtacIu_lCHV7Ynn7B4-24" value="小写字段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B7EtacIu_lCHV7Ynn7B4-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="440" as="sourcePoint" />
+            <mxPoint x="160" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B7EtacIu_lCHV7Ynn7B4-26" value="旧的数据链路（将废弃）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="425" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B7EtacIu_lCHV7Ynn7B4-27" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="470" as="sourcePoint" />
+            <mxPoint x="160" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B7EtacIu_lCHV7Ynn7B4-28" value="新的数据链路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="455" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
